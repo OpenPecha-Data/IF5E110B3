@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG13616
   title: ཁྲོ་ཕུ་ལོ་ཙཱ་བ་བྱམས་པ་དཔལ་གྱི་རང་རྣམ།
-  volume: ''
+  volume:
+    eb116529f7d3449dbcd903895308da41:
+      image_group_id: I1KG13635
+      title: Volume 1 of khro phu lotsa+tsha ba byams pa dpal gyi rang rnam/
+      volume_number: 1
+      total_pages: 158
   author: ''
+ebook_metadata:
+  title: ཁྲོ་ཕུ་ལོ་ཙཱ་བ་བྱམས་པ་དཔལ་གྱི་རང་རྣམ།
+  author: ''
+  sku: P000428
+  cover: cover.jpg
+  layers:
+  - pagination
